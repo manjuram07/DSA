@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d338f051-1021-42cb-9c7a-e7eb365e6062" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/easy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/ButterflyStarPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/DiamondPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/HollowPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/NumberTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/PalindromeTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/RhombusPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/ZeroOneTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/twoPointer/MoveAllZerosToEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/twoPointer/RemoveAllOccurrencesOfElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Principles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Principles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desing Patterns/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Streams API Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Streams API Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/ConvertIntoSingleIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/ConvertIntoSingleIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/com/Filtering_Mapping/Stream_Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/com/Filtering_Mapping/Stream_Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/com/Grouping_Partition/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/com/Grouping_Partition/EvenAndOdd.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA" value="3I7LxXLI9g3IHmYnQBUDDuejnOY" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/IndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3I7LxXLI9g3IHmYnQBUDDuejnOY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application. TrappingRainWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ButterflyStarPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiamondPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsArrayPalindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestPalindromicSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeTraingle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalTriangle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PascalTriangle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAllOccurrencesOfElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseLeftHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RhombusPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeroOneTraingle.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ButterflyStarPattern">
+    <configuration name="ButterflyStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.pattern.ButterflyStarPattern" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.dynamicProgramming.Demo" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.pattern.DiamondPattern" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.dynamicProgramming.PascalTriangle" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.dynamicProgramming.PascalTriangle2" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ButterflyStarPattern" />
+      <item itemvalue="Application.PascalTriangle2" />
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.DiamondPattern" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ButterflyStarPattern" />
+        <item itemvalue="Application.PascalTriangle2" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DiamondPattern" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d338f051-1021-42cb-9c7a-e7eb365e6062" name="Changes" comment="" />
+      <created>1787110906194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787110906194</updated>
+    </task>
+    <servers />
+  </component>
+</project>

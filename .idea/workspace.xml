@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d338f051-1021-42cb-9c7a-e7eb365e6062" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Company Management API/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/easy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/ButterflyStarPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/DiamondPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/HollowPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/NumberTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/PalindromeTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/RhombusPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/pattern/ZeroOneTraingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/twoPointer/MoveAllZerosToEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Data_Structures/com/twoPointer/RemoveAllOccurrencesOfElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Principles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Principles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desing Patterns/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Streams API Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Streams API Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/ConvertIntoSingleIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/ConvertIntoSingleIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/com/Filtering_Mapping/Stream_Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/com/Filtering_Mapping/Stream_Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamsAPI/src/com/Grouping_Partition/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamsAPI/src/com/Grouping_Partition/EvenAndOdd.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA" value="3I7LxXLI9g3IHmYnQBUDDuejnOY" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/IndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4146597729072208" />
+      <entry key="MS500" value="1.8385681844409312" />
+      <entry key="S2" value="1.956939750673012" />
+      <entry key="S5" value="1.9825481405869385" />
+      <entry key="S10" value="1.9912356872003998" />
+      <entry key="S30" value="2.0024354486331415" />
+      <entry key="S60" value="2.1250230046638072" />
+      <entry key="M2" value="2.6524102894760357" />
+      <entry key="M5" value="3.936852989232891" />
+      <entry key="M10" value="7.142726737139901" />
+      <entry key="M15" value="14.025085357458297" />
+      <entry key="M30" value="41.95803859994242" />
+      <entry key="H1" value="92.20473095714314" />
+      <entry key="H2" value="156.37923578718187" />
+      <entry key="H4" value="214.23180125800545" />
+      <entry key="D1" value="286.77547315233886" />
+      <entry key="W1" value="302.3069547385611" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.9231838207772403E-7" />
+      <entry key="MS500" value="0.045373696246996706" />
+      <entry key="S2" value="0.4615311731277926" />
+      <entry key="S5" value="0.7339735606230992" />
+      <entry key="S10" value="0.8567225699155732" />
+      <entry key="S30" value="0.9506457757782203" />
+      <entry key="S60" value="1.0062228110301887" />
+      <entry key="M2" value="1.2037626410700164" />
+      <entry key="M5" value="1.79290314064974" />
+      <entry key="M10" value="2.545456802676881" />
+      <entry key="M15" value="3.403457693269441" />
+      <entry key="M30" value="6.059489299960153" />
+      <entry key="H1" value="9.972300959599517" />
+      <entry key="H2" value="14.244638473985942" />
+      <entry key="H4" value="17.772872055023058" />
+      <entry key="D1" value="21.97163658510525" />
+      <entry key="W1" value="22.84858272822339" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.5568738822499443" />
+      <entry key="MS500" value="1.366186268465175" />
+      <entry key="S2" value="2.0964784313351252" />
+      <entry key="S5" value="2.5309994350551763" />
+      <entry key="S10" value="2.7415239698587692" />
+      <entry key="S30" value="2.9135668617388597" />
+      <entry key="S60" value="3.105807108055736" />
+      <entry key="M2" value="3.832606371177193" />
+      <entry key="M5" value="5.71112717629747" />
+      <entry key="M10" value="9.674780496603502" />
+      <entry key="M15" value="17.416995093359322" />
+      <entry key="M30" value="48.00788843066935" />
+      <entry key="H1" value="102.1693463434865" />
+      <entry key="H2" value="170.61843067753256" />
+      <entry key="H4" value="232.00128103939298" />
+      <entry key="D1" value="308.74641030891377" />
+      <entry key="W1" value="325.15543353483287" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3I7LxXLI9g3IHmYnQBUDDuejnOY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application. TrappingRainWater.executor": "Run",
+    "Application.ButterflyStarPattern.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DiamondPattern.executor": "Run",
+    "Application.IsArrayPalindrom.executor": "Run",
+    "Application.Lab1.executor": "Debug",
+    "Application.Lab2.executor": "Run",
+    "Application.Lab3.executor": "Run",
+    "Application.Lab4.executor": "Run",
+    "Application.LongestPalindromicSubString.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MoveAllZerosToEnd.executor": "Run",
+    "Application.NumberTraingle.executor": "Run",
+    "Application.PalindromeTraingle.executor": "Run",
+    "Application.PascalTriangle.executor": "Debug",
+    "Application.PascalTriangle2.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.RemoveAllOccurrencesOfElement.executor": "Debug",
+    "Application.RemoveElement.executor": "Debug",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseLeftHalfPyramid.executor": "Run",
+    "Application.RhombusPattern.executor": "Run",
+    "Application.ZeroOneTraingle.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab4">
+    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basics.Lab1" />
+      <module name="String-Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basics.Lab2" />
+      <module name="String-Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basics.Lab3" />
+      <module name="String-Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basics.Lab4" />
+      <module name="String-Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Data_Structures.com.twoPointer.ReverseArray" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Data_Structures.com.twoPointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab2" />
+      <item itemvalue="Application.Lab3" />
+      <item itemvalue="Application.Lab4" />
+      <item itemvalue="Application.Lab1" />
+      <item itemvalue="Application.ReverseArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab4" />
+        <item itemvalue="Application.Lab2" />
+        <item itemvalue="Application.Lab3" />
+        <item itemvalue="Application.Lab1" />
+        <item itemvalue="Application.ReverseArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d338f051-1021-42cb-9c7a-e7eb365e6062" name="Changes" comment="" />
+      <created>1787110906194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787110906194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Array_Data_Structures/com/twoPointer/RemoveElement.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/String-Data_Structure/src/com/basics/Lab2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/String-Data_Structure/src/com/basics/Lab2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/String-Data_Structure/src/com/basics/Lab2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/String-Data_Structure/src/com/basics/Lab2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
